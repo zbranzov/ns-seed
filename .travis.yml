@@ -37,5 +37,6 @@ before_script:
     - android-wait-for-emulator
 
 script:
+    - npm run setup
     - npm run demo.android
-    - cd demo && tns platform remove android && tns test android --justlaunch
+    - npm run test.android
