@@ -1,4 +1,4 @@
-# Develop a NativeScript plugin now (w/ TypeScript)
+# Develop a NativeScript plugin now (w/ TypeScript) [![Build Status](https://travis-ci.org/NativeScript/nativescript-plugin-seed.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-plugin-seed)
 
 ## Getting started
 
