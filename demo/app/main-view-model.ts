@@ -7,8 +7,5 @@ export class HelloWorldModel extends Observable {
 
   constructor() {
     super();
-
-    this.yourPlugin = new YourPlugin();
-    this.message = this.yourPlugin.message;
   }
 }
